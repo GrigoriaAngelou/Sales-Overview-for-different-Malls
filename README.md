@@ -12,4 +12,4 @@ For excersise purposes we are answering questions using Python and SQL like:
 In addition, we created a dashboard using Tableau Public were we made a sales overview and analyse key metrics for customers' profile.
 </br>
 **Discover more:** [here](https://grigoriaangelou.github.io/........) <br>
-**Code:** [sales analysis for Amazon products year 2019.ipynb](https://github.com/GrigoriaAngelou/Online-Shopping-Analysis-for-2019/blob/8ffb99dc835bc3044f91c487fb76b3dc9177bb99/online-shopping-eda-for-beginners.ipynb)
+**Code:** [sales overview.ipynb](sales overview.ipynb)
